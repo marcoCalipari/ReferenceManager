@@ -91,7 +91,7 @@ def main(referencesFile,fullTextFile):
         authors_initials = extract_surname_initials(citation.get('authors', ''))
         year = citation.get('year', 'n.d.')
         last_two_digits = year[-2:] if year != 'n.d.' else 'nd'
-        base_citation_key = f"{authors_initials}{last_two_digits}"
+        base_citation_key = f"[{authors_initials}{last_two_digits}]"
         count = citation_counts.get(base_citation_key, 0)
         if count == 0:
             citation_counts[base_citation_key] = 1
@@ -101,6 +101,7 @@ def main(referencesFile,fullTextFile):
             citation_key = f"{base_citation_key}{suffix}"
             citation_counts[base_citation_key] += 1
         # Add to dictionary
+        
         citation_dict[citation_key] = citation['original']
 
     for key in citation_dict:
@@ -120,7 +121,7 @@ def main(referencesFile,fullTextFile):
     for reference in references:
         citation_number = int(reference[1:-1])
         citation_key = list(citation_dict.keys())[citation_number - 1]
-        full_text = full_text.replace(reference, f'[{citation_key}]')
+        full_text = full_text.replace(reference, f'{citation_key}')
     for key, original_citation in citation_dict.items():
         print(f"{key}: {original_citation}\n")
     print(full_text)
