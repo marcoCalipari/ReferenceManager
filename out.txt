@@ -1,0 +1,109 @@
+ZZP21: [1] 	H. Zhou, S. Zhang, J. Peng, S. Zhang, J. Li, H. Xiong and W. Zhang, "Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting," in The Thirty-Fifth AAAI Conference on Artificial Intelligence, Virtual Conference, AAAI 2021, 2021.
+
+O20: [2] 	O. Onyshchak, "Stock Market Dataset," 2020. [Online]. Available: https://www.kaggle.com/dsv/1054465.
+
+KNHnd: [3] 	A. Krizhevsky, V. Nair and G. Hinton, "CIFAR-10 (Canadian Institute for Advanced Research)," [Online]. Available: http://www.cs.toronto.edu/~kriz/cifar.html.
+
+DDS09: [4] 	J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li and L. Fei-Fei, "ImageNet: A large-scale hierarchical image database," in IEEE Conference on Computer Vision and Pattern Recognition, 2009.
+
+S12: [5] 	K. Soomro, "A dataset of 101 human actions classes from videos in the wild," Center for Research in Computer Vision, pp. 1-7, 2012.
+
+KCS17: [6] 	W. Kay, J. Carreira, K. Simonyan, B. Zhang, C. Hillier, S. Vijayanarasimhan, F. Viola, T. Green, T. Back, P. Natsev, M. Suleyman and A. Zisserman, "The kinetics human action video dataset," in arXiv preprint, 2017.
+
+GLS13: [7] 	A. Geiger, P. Lenz, C. Stiller and R. Urtasun, "Vision meets Robotics: The KITTI Dataset," International Journal of Robotics Research (IJRR), 2013.
+
+GLU12: [8] 	A. Geiger, P. Lenz and R. Urtasun, "Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite," in Conference on Computer Vision and Pattern Recognition (CVPR), 2012.
+
+M19: [9] 	N. Moustafa, "ToNIoT datasets," 2019. [Online]. Available: https://dx.doi.org/10.21227/fesz-dm97.
+
+ZTG21: [10] 	M. Zolanvari, M. A. Teixeira, L. Gupta, K. M. Khan and R. Jain, "WUSTL-IIOT-2021 Dataset for IIoT Cybersecurity Research," Washington University in St. Louis, USA, October 2021. [Online]. Available: http://www.cse.wustl.edu/~jain/iiot2/index.html.
+
+HPW22: [11] 	R. Hernangomez, A. Palaios, C. Watermann, D. Schäufele, P. Geuer, R. Ismayilov, M. Parvini, A. Krause, M. Kasparick, T. Neugebauer, O. D. Ramos-Cantor, H. Tchouankem, J. L. Calvo and Chen, "AI4Mobile Industrial Wireless Datasets: iV2V and iV2I+," 31 October 2022. [Online]. Available: https://dx.doi.org/10.21227/04ta-v128.
+
+TAE20: [12] 	K. Tekbiyik, Ö. Akbunar, A. R. Ekti, A. Görçin and G. Karabulut Kurt, "COSINE: Cellular cOmmunication SIgNal dataset," 2020. [Online]. Available: https://dx.doi.org/10.21227/safr-gh59.
+
+GPE20: [13] 	S. Garcia, A. Parmisano and M. J. Erquiaga, "IoT-23: A labeled dataset with malicious and benign IoT network traffic (1.0.0)," 2020. [Online]. Available: https://doi.org/10.5281/zenodo.4743746.
+
+LMB14: [14] 	T.-Y. Lin, M. Maire, S. Belongie, J. Hays, P. Perona, D. Ramanan, P. Dollár and C. L. Zitnick, "Microsoft COCO: Common objects in context," in Computer Vision–ECCV 2014: 13th European Conference, 2014.
+
+SKD20: [15] 	P. Sun, H. Kretzschmar, X. Dotiwalla, A. Chouard, V. Patnaik, P. Tsui, J. Guo, Y. Zhou, Y. Chai, B. Caine, V. Vasudevan, W. Han, J. Ngiam, H. Zhao, A. Timofeev and S. Ettinger, "Scalability in Perception for Autonomous Driving: Waymo Open Dataset," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+
+ASC17: [16] 	N. Alshammari, T. Alshammari, M. Sedky, J. Champion and C. Bauer, "OpenSHS: Open smart home simulator," IEEE Sensors Journal, vol. 17, no. 5, p. 1003, 2017.
+
+LCL15: [17] 	J. W. Lee, S. Cho, S. Liu, K. Cho and S. Helal, "Persim 3D: Context-driven simulation and modeling of human activities in smart spaces," IEEE Transactions on Automation Science and Engineering, vol. 12, no. 4, p. 1243–1256, 2015.
+
+SCN14: [18] 	J. Synnott, L. Chen, C. D. Nugent and G. Moore, "The creation of simulated activity datasets using a graphical intelligent environment simulation tool," in 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2014.
+
+PY21: [19] 	G. Papyshev and M. Yarime, "Exploring city digital twins as policy tools: A task-based approach to generating synthetic data on urban mobility," Data & Policy, vol. 3, p. e16, 2021.
+
+RH10: [20] 	G. F. Riley and T. R. Henderson, "The ns-3 Network Simulator," in The ns-3 Network Simulator, 2010, p. 15–34.
+
+CJG22: [21] 	A. Chio, D. Jiang, P. Gupta, G. Bouloukakis, R. Yus, S. Mehrotra and N. Venkatasubramanian, "Smartspec: Customizable smart space datasets via event-driven simulations," in 2022 IEEE International Conference on Pervasive Computing and Communications (PerCom), 2022.
+
+CSG22: [22] 	C. Chen, C. Schissler, S. Garg, P. Kobernik, A. Clegg, P. Calamia, D. Batra, P. Robinson and K. Grauman, "Soundspaces 2.0: A simulation platform for visual-acoustic learning," Advances in Neural Information Processing Systems, vol. 35, p. 8896–8911, 2022.
+
+MWW20: [23] 	S. Manivasagam, S. Wang, K. Wong, W. Zeng, M. Sazanovich, S. Tan, B. Yang, W.-C. Ma and R. Urtasun, "LidarSim: Realistic lidar simulation by leveraging the real world," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020.
+
+HK07: [24] 	T. M. Howard and A. Kelly, "Optimal rough terrain trajectory generation for wheeled mobile robots," The International Journal of Robotics Research, vol. 26, no. 2, pp. 141-166, 2007.
+
+BHK21: [25] 	J. Berlin, G. Hess, A. Karlsson, W. Ljungbergh, Z. Zhang, K. Åkesson and P.-L. .. Götvall, "Trajectory Generation for Mobile Robots in a Dynamic Environment using Nonlinear Model Predictive Control," in 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE), 2021.
+
+PAP23: [26] 	A. G. Putrada, M. Abdurohman, D. Perdana and H. H. Nuha, "Synthetic data with nested Markov chain for cima-based smart lighting control deployment simulation," in 11th International Conference on Information and Communication Technology (ICoICT), 2023.
+
+ACB17: [27] 	M. Arjovsky, S. Chintala and L. Bottou, "Wasserstein generative adversarial networks," in International Conference on Machine Learning, 2017.
+
+RBL22: [28] 	R. Rombach, A. Blattmann, D. Lorenz, P. Esser and B. Ommer, "High-resolution image synthesis with latent diffusion models," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022.
+
+LKK24: [29] 	T. Lee, S. Kwon and T. Kim, "Grid Diffusion Models for Text-to-Video Generation," in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024.
+
+HFS24: [30] 	H. Huang, Y. Feng, C. Shi, L. Xu, J. Yu and S. Yang, "Free-bloom: Zero-shot text-to-video generator with LLM director and LDM animator," Advances in Neural Information Processing Systems, vol. 36, 2024.
+
+TWZ23: [31] 	J. Tang, T. Wang, B. Zhang, T. Zhang, R. Yi, L. Ma and D. Chen, "Make-it-3d: High-fidelity 3d creation from a single image with diffusion prior," Proceedings of the IEEE/CVF International Conference on Computer Vision, p. 22819–22829, 2023.
+
+LWH23: [32] 	R. Liu, R. Wu, B. Van Hoorick, P. Tokmakov, S. Zakharov and C. Vondrick, "Zero-1-to-3: Zero-shot one image to 3d object," in Proceedings of the IEEE/CVF international conference on computer vision, 2023.
+
+LDQ21: [33] 	H. Lu, M. Du, K. Qian, X. He and K. Wang, "GAN-based data augmentation strategy for sensor anomaly detection in industrial robots," IEEE Sensors Journal, vol. 22, no. 18, p. 17464–17474, 2021.
+
+LLY20: [34] 	C. Li, Z. Liu, Y. Yao, Z. Cao, M. Zhang and Y. Liu, "Wi-fi see it all: Generative adversarial network-augmented versatile wi-fi imaging," in Proceedings of the 18th Conference on Embedded Networked Sensor Systems, 2020.
+
+KS23: [35] 	V. Kumar and D. Sinha, "Synthetic attack data generation model applying generative adversarial network for intrusion detection," Computers & Security, vol. 125, p. 103054, 2023.
+
+DFW21: [36] 	A. Desai, C. Freeman, Z. Wang and I. Beaver, "TimeVAE: A variational auto-encoder for multivariate time series generation," in arXiv preprint, 2021.
+
+LWL24: [37] 	Y. Liu, S. Wijewickrema, A. Li, C. Bester, S. O'Leary and J. Bailey, "Time-Transformer: Integrating Local and Global Features for Better Time Series Generation," in Proceedings of the 2024 SIAM International Conference on Data Mining (SDM), 2024.
+
+CZL23: [38] 	Y. Cheng, L. Zhang and A. Li, "GFL: Federated learning on non-IID data via privacy-preserving synthetic data," in IEEE International Conference on Pervasive Computing and Communications (PerCom), 2023.
+
+ZWD21: [39] 	S. Zhang, J. Wu, J. Dong and L. Liu, "Social-Interaction GAN: Pedestrian Trajectory Prediction," in International Conference on Wireless Algorithms, Systems, and Applications, 2021.
+
+CZ23: [40] 	X. Chen and X. Zhang, "Rf genesis: Zero-shot generalization of mmwave sensing through simulation-based data synthesis and generative diffusion models," in Proceedings of the 21st ACM Conference on Embedded Networked Sensor Systems, 2023.
+
+Simulation approaches can be divided into two main categories: (i) semantic model-based simulations that emphasize high-level relationships between entities in smart environments using abstract models to simulate activities and interactions; and (ii) physical model-based simulations that focus on replicating real-world physical processes, generating detailed, modality-specific data such as sensory readings. In semantic model-based simulations, relationships and functions between entities are manually set and implemented. Physical model-based simulations, on the other hand, calculate interactions based on physical laws and mathematical formulas for high-precision outcomes.  
+
+In the physical level of IoT systems, semantic model-based simulation methods are developed for many different data types. For example, tools like OpenSHS [ASC17], Persim-3d [LCL15], and IE Sim [SCN14] are developed to analyze and generate datasets of Activities of Daily Living (ADL) for smart home applications, including lighting, security, and energy management. Semantic models are used to represent the relationships of entities at the physical level, network level and application level. They define functions for different interactions among the entities and thus, naturally synthesize different level data with the functions customized to specific relationships. On a larger scale, the Exploring [PY21] framework involves a task-based approach with the Digital Twin of a city where citizens are engaged in performing certain activities to create data that reflects hypothetical scenarios. A Digital Twin replicates real-world entities, in this case, a city. It integrates data from various sources to create a comprehensive model that can simulate and predict the physical existence of the city, including aspects like traffic flow, energy consumption, and environmental impact. 
+
+The semantic model is also a powerful tool to model relationships in network components. Network Simulator 3 (ns-3) [RH10] is a discrete-event network simulator that simulates the behavior of various network protocols and configurations, providing a highly flexible environment for testing and development. Semantic model enhances ns-3 by offering a structured framework for simulating nodes, links, protocols, and applications. This integration allows users to simulate realistic network traffic data and analyze the performance of network configurations.  
+
+Known for the robust capability to guide simulations on the physical and network levels, semantic models extend their utility to higher-level simulations involving application knowledge. This capability is particularly useful in complex IoT systems where different levels of data are integrated. A leading example is SmartSPEC [CJG22], a simulation tool that synthesizes realistic occupancy and customizable sensor data across both physical and network levels. It uses a four-component semantic model—Space, Event, Person, and Sensors—to capture intricate human activity patterns within a smart environment. SmartSPEC generates data based on Wi-Fi occupancy datasets and allows full customization of data generation functions. Its key feature is the ability to learn event distributions from seed data, enabling it to extract abstract information about events and activities, thus transforming raw data into application-level insights. 
+
+Physical model simulation involves creating detailed, often mathematical models of physical systems to understand and predict their behavior under various conditions. To synthesize sensor data, physical-based methods create high-precision simulations of specific phenomena like acoustic signals (e.g., Soundspaces 2.0 [CSG22]) or point clouds (Lidarsim [MWW20]). These methods are based on well-defined physical scenarios, including the environment, and physical data of entities (3D model, surface texture and parameters, etc.) to simulate physical sensory data or network reflection data. Thus, these methods are used as a simulator from the physical level to sensor data or even the network level, while the high-precision sensory data can be further utilized by other applications. 
+
+Robotic trajectory generation is another field that wildly uses mathematics equations to simulate the target object. One approach is the optimal rough terrain trajectory framework [HK07], which solves the optimal path for wheeled mobile robots navigating through uneven and rough terrains like the moon. The method performs physical simulation to solve realistic physical data of the position, velocity, and acceleration but doesn't account for obstacles or collisions. Trajectory Generation for Mobile Robots in Dynamic Environments [BHK21] using Nonlinear Model Predictive Control (NMPC) combines long-range planning with dynamic obstacle avoidance and real-time adaptability. Both methods excel in their specific applications and their focus on individual sensor modalities to simulate and limit their integration into broader scenarios of IoT systems. 
+
+Machine Learning Approaches 
+
+Machine Learning approaches are useful to automatically generate synthetic data from existing data. These approaches, particularly built to deal with time-series data collected by sensors in IoT systems, involve traditional machine learning models and deep learning models. Traditional machine learning techniques like Synthetic Data with Nested Markov Chain [PAP23], combine synthetic data generation techniques with nested Markov chain to model complex dependencies. For example, in the context of smart lighting control, a nested Markov chain can model the probabilities of different lighting conditions and occupant behaviors over time to optimize energy efficiency. 
+
+Deep Learning models utilize multiple layers of neural networks to optimize a loss function to a target. These methods can be regarded as approximating functions from input to output with arbitrary precision with the sufficient large scale of the Neural Network. These models, particularly generative ones, play a significant role in tasks such as time series generation, prediction, and hybrid approaches that combine simulation and Deep Learning. One approach involves deep learning generative models that create synthetic data from random distributions. These models learn to map random distributions to the distribution of real-world data. Generative models have been pivotal in producing synthetic time series data, images, and even more complex forms of data.  
+
+Using deep learning to generate synthetic data can be understood within a hierarchical framework. At the base of this hierarchy is the physical world, IoT sensors capture various forms of data such as images, videos, and 3D models. These sensors serve as the starting point for generating data, which is then transmitted and processed by IoT networks. As the physical sensor data is collected and processed, applications can make predictions and decisions based on this information, thus forming the foundation of IoT systems. Physical data generation becomes a fundamental start of this hierarchy with raw sensory data. For image sensory data generation, one method is Generative Adversarial Networks (GAN) [ACB17] that contains a generator and a discriminator work together to improve image quality iteratively. Similarly, Stable Diffusion [RBL22] uses convolutional neural networks for compression and denoising models to produce high-quality images efficiently. Then for video generations, Grid-Diffusion [LKK24] presents a novel approach to generating videos from text descriptions by creating keyframes and interpolating between them. Other models such as Free-bloom [HFS24], combine Large Language Models (LLMs) with diffusion models to maintain consistency in video generation. Theseframeworks show the growing ability of deep learning models to handle complex data types like videos, guided by textual inputs. 
+
+In physical scenarios, 3D models are used as objects and interact with other objects and environments. Make-It-3D [TWZ23] uses prior knowledge from a 2D diffusion model as 3D-aware supervision for 3D creation. It follows a two-stage optimization: firstly, optimizing a Neural Radiance Field (NeRF) with image constraints, then transforming the model into textured point clouds. Similarly, the Zero-1-to-3 [LWH23] approach leverages geometric priors from large-scale diffusion models for novel view synthesis. It uses a conditional diffusion model to control camera viewpoints and generate new object images, followed by 3D reconstruction to create a 3D triangle mesh.  
+
+As we focus more closely on IoT sensor data, the generative method is also prevalently used for data augmentation. For example, GAN-based data augmentation [LDQ21] strategy for sensor anomaly detection by generating synthetic anomalies. This can help overcome the limitations of small or imbalanced datasets. Wi-Fi See It All [LLY20] involves the use of GAN to enhance Wi-Fi imaging technology that leverages the penetration and reflection characteristics of wireless signals to perceive and image the environment.  
+
+Network data generation is another area where deep learning shows promise. Synthetic attack [KS23] proposed a framework for network intrusion detection systems (NIDS) with GAN used as data augmentation. This approach reduces the dependency on real-world data and offers a more flexible and ethically convenient model-building process. Other models, like TimeVAE [DFW21] and TimeTransformer [LWL24], utilize the generative model to generate time series data, capturing trends and seasonality. Both methods can generate synthetic data, yet the precision and flexibility in different settings are still problems.  
+
+On the application layer, some method utilizing generative methods for privacy preservation is proposed for Federated Learning. GFL [CZL23] use GAN with differential privacy to generate data while preserving privacy during server communication. Social GANs (Zhang, Wu, Dong, & Liu, 2021), another method, can learn pedestrian walking patterns from images to generate realistic human trajectories. Combining simulation and machine learning is another emerging trend in synthetic data generation. These hybrid methods integrate simulation techniques with large language models and vision large models to generate richer, more contextually informed data. For example, RFGen [CZ23] uses large models to generate physical scenes and then simulates radio frequency responses based on these synthetic scenes, marking a significant advancement in creating realistic and contextually informed synthetic data. 
+
+In Appex B, you can find a list of a detailed comparison of related articles for synthetic data generation in tabular format, for both simulation and machine learning approaches.  
