@@ -103,6 +103,8 @@ def main(referencesFile,fullTextFile):
         # Add to dictionary
         citation_dict[citation_key] = citation['original']
 
+    for key in citation_dict:
+        citation_dict[key] = re.sub(r'\[\d+\]', '', citation_dict[key])
     # Print the dictionary
     # for key, original_citation in citation_dict.items():
     #     print(f"{key}: {original_citation}\n")
