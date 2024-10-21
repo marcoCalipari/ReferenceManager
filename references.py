@@ -70,9 +70,9 @@ def extract_surname_initials(authors_str):
     initials = ''.join([surname[0].upper() for surname in surnames[:3]])
     return initials
 
-def main(input_file):
+def main(referencesFile,fullTextFile):
     # Generate the citation keys from the reference file
-    with open(input_file, 'r', encoding='utf-8') as f:
+    with open(referencesFile, 'r', encoding='utf-8') as f:
         citations = f.readlines()
 
     parsed_citations = []
@@ -108,7 +108,7 @@ def main(input_file):
     #     print(f"{key}: {original_citation}\n")
     
     # Now we will parse the full text with old references.
-    with open('text.txt', 'r', encoding='utf-8') as f:
+    with open(fullTextFile, 'r', encoding='utf-8') as f:
         full_text = f.read()
     
     # Now we try to isolate all the references [1], [2], etc.
@@ -129,7 +129,8 @@ def main(input_file):
     
 
 if __name__ == '__main__':
-    input_file = 'seen_references.txt'
+    referencesFile = 'seen_references.txt'
+    fullTextFile = 'full_text.txt'
     # Print the dictionary
 
-    main(input_file)
+    main(referencesFile, fullTextFile)
